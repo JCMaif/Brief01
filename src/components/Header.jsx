@@ -15,7 +15,7 @@ export default function Header() {
       <section className="hero">
         <h1>Bienvenue sur Plateforme d'Hébergement Web</h1>
         <p>Le meilleur choix pour héberger vos sites web en toute sécurité.</p>
-        <a href="#pricings" className="cta">Voir les prix</a>
+        <a href="#pricing" className="cta">Voir les prix</a>
       </section>
     </header>
   );
